@@ -1,0 +1,4 @@
+Train Data URL:
+https://www.kaggle.com/datasets/grassknoted/asl-alphabet?resource=download 
+
+
